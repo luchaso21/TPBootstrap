@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: brown;
+    color: pink;
+}
+.a2{
+    /* background-color: red; */
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    /* border:5px solid black; */
+}
+.a3{
+    background-color: red; 
+    color: white;
+    padding: 5px;
+    margin: 5px;
+     border:5px solid black; 
+}
+
+
+h1{
+    margin: 0;
+}
+main{
+    background-color: pink;
+}
+article{
+    background-color: black;
+    color: aliceblue;
+    border: 2px solid yellow;
+}
